@@ -2456,6 +2456,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background_splash_screen
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2481,6 +2482,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img_logo
 drawable img_pdp_top_01
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -2625,6 +2627,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_enter_product_detail
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2657,6 +2660,7 @@ id compress
 id confirm_button
 id constraint
 id container
+id container_main
 id content
 id contentPanel
 id contiguous
@@ -3115,7 +3119,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
-layout activity_product_detail
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3132,6 +3135,8 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_home
+layout fragment_product_detail
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3970,6 +3975,7 @@ style Theme_MaterialComponents_Light_NoActionBar_Bridge
 style Theme_MaterialComponents_NoActionBar
 style Theme_MaterialComponents_NoActionBar_Bridge
 style Theme_Shoppiandroidudemy
+style Theme_Shoppiandroidudemy_Splash
 style ThemeOverlay_AppCompat
 style ThemeOverlay_AppCompat_ActionBar
 style ThemeOverlay_AppCompat_Dark

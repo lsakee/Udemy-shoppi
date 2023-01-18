@@ -132,4 +132,7 @@
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
         
     </style>
+    <style name="Theme.Shoppiandroidudemy.Splash">
+        <item name="android:windowBackground">@drawable/background_splash_screen</item>
+    </style>
 </resources>

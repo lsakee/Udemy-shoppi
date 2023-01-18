@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lsls4\.gradle\caches\transforms-3\6ea5e02244b74fe2f2bc6384d218f2ff\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lsls4\.gradle\caches\transforms-3\39b5700bfe114a85128f137d6220292f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\lsls4\.gradle\caches\transforms-3\b0102c638c9d6135b3814c524a60fca5\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
@@ -44,27 +44,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lsls4\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\6aad9dcd3aa9bc4c076e45642ff37f7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\41441b4c2106b5260e1152573c42cf87\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\7ab702f009a5c29a1baf9a1fb5794136\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:4:5-29
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:6:5-25:19
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:6:5-31:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lsls4\.gradle\caches\transforms-3\6ea5e02244b74fe2f2bc6384d218f2ff\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lsls4\.gradle\caches\transforms-3\6ea5e02244b74fe2f2bc6384d218f2ff\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lsls4\.gradle\caches\transforms-3\39b5700bfe114a85128f137d6220292f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -94,27 +94,35 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lsls4\.gradle\cach
 	android:icon
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:7:9-36
 	android:theme
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:14:9-56
 	android:dataExtractionRules
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:8:9-65
-activity#com.shoppi.app.MainActivity
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:16:9-24:20
+activity#com.shoppi.app.SplashActivity
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:17:9-27:20
 	android:exported
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:20:13-67
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:18:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.shoppi.app.MainActivity
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:29:13-41
 uses-sdk
 INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml

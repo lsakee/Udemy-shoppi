@@ -1,4 +1,4 @@
-#Wed Jan 18 19:44:29 KST 2023
+#Wed Jan 18 23:14:54 KST 2023
 base.2=C\:\\Users\\lsls4\\AndroidStudioProjects\\Shoppi-android-udemy\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 path.2=8/classes.dex
 base.1=C\:\\Users\\lsls4\\AndroidStudioProjects\\Shoppi-android-udemy\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
