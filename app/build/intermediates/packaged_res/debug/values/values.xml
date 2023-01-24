@@ -19,6 +19,8 @@
     <color name="shoppi_pink_02">#11e062ff</color>
     <color name="shoppi_purple">#7d22ff</color>
     <color name="shoppi_white">#ffffff</color>
+    <dimen name="viewpager_item_margin">16dp</dimen>
+    <dimen name="viewpager_item_width">312dp</dimen>
     <string name="app_name">Shoppi-android-udemy</string>
     <string name="description_product_thumnail">상품 상세 대표 이미지</string>
     <string name="label_cart_icon">장바구니</string>

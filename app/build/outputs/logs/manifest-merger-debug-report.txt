@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\lsls4\.gradle\caches\transforms-3\c671c38413ebeb1e8b9ddb7b91ebec70\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\lsls4\.gradle\caches\transforms-3\b8cbeb5abf906b5375a9216ce7525fb3\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\lsls4\.gradle\caches\transforms-3\4ef8dcbae6306c2d6cfd3b8ec1eb298e\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -38,8 +38,8 @@ MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\lsls4\.gradle\ca
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\e18f7b8500da3961d3aecdeb52e3d638\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\8a28f6fc7c86637ecb8b2eaa0814fb47\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\bbe2ef28165f1d8ec5540b4ad1b9dfc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\e7fdc0b9d7d5b512d4130098ebe75354\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\b65b4fc87f01c839f78c1fd56cce88cb\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\lsls4\.gradle\caches\transforms-3\9d8f9162243a031241a0aee7aef717ce\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\lsls4\.gradle\caches\transforms-3\a36532721456d631a34fa884af1d3086\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -61,22 +61,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lsls4\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\6aad9dcd3aa9bc4c076e45642ff37f7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\41441b4c2106b5260e1152573c42cf87\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\e453f7bf1de35bebe09f8d7dbd9ad75e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:4:5-29
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:1-36:12
 		INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:2:11-69
@@ -89,7 +89,7 @@ ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\mai
 	android:name
 		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:7:22-76
 application
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:8:5-33:19
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:8:5-34:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lsls4\.gradle\caches\transforms-3\6ea5e02244b74fe2f2bc6384d218f2ff\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\lsls4\.gradle\caches\transforms-3\6ea5e02244b74fe2f2bc6384d218f2ff\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lsls4\.gradle\caches\transforms-3\39b5700bfe114a85128f137d6220292f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -111,47 +111,49 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lsls4\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\lsls4\.gradle\caches\transforms-3\065dfa018132f0a621878cd66243e674\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:12:9-54
 	android:roundIcon
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:15:9-54
 	tools:targetApi
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:17:9-29
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:9:9-36
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:10:9-36
 	android:theme
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:16:9-56
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:17:9-56
 	android:dataExtractionRules
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:10:9-65
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:11:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:9:9-44
 activity#com.shoppi.app.SplashActivity
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:19:9-29:20
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:20:9-30:20
 	android:exported
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:21:13-36
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:13-36
 	android:theme
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:13-67
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:23:13-67
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:20:13-43
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:21:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.shoppi.app.MainActivity
-ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:30:9-32:40
+ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:31:13-41
+		ADDED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:32:13-41
 uses-sdk
 INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml
@@ -224,10 +226,10 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lsl
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\8a28f6fc7c86637ecb8b2eaa0814fb47\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\bbe2ef28165f1d8ec5540b4ad1b9dfc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\bbe2ef28165f1d8ec5540b4ad1b9dfc6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\e7fdc0b9d7d5b512d4130098ebe75354\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\e7fdc0b9d7d5b512d4130098ebe75354\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\8ece1a5450dc30815e1e80c220480ad0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\b65b4fc87f01c839f78c1fd56cce88cb\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\b65b4fc87f01c839f78c1fd56cce88cb\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.3.0] C:\Users\lsls4\.gradle\caches\transforms-3\9d8f9162243a031241a0aee7aef717ce\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41

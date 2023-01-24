@@ -2403,6 +2403,8 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+dimen viewpager_item_margin
+dimen viewpager_item_width
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -2485,6 +2487,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable background_splash_screen
+drawable background_whilte
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2559,13 +2562,16 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable selected_viewpager_indicator
 drawable selector_cart_icon
 drawable selector_category_icon
 drawable selector_home_icon
+drawable selector_viewpager_indicator
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable unselected_viewpager_indicator
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2659,6 +2665,7 @@ id baseline
 id beginOnFirstDraw
 id beginning
 id bestChoice
+id bg_banner_product_detail
 id blocking
 id bottom
 id bounce
@@ -2801,6 +2808,8 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id iv_banner_detail_thumbnail
+id iv_banner_image
 id iv_product_detail_image
 id iv_product_thumbnail
 id jumpToEnd
@@ -3044,6 +3053,13 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tv_banner_badge
+id tv_banner_detail_brand_label
+id tv_banner_detail_product_discount_price
+id tv_banner_detail_product_discount_rate
+id tv_banner_detail_product_label
+id tv_banner_detail_product_price
+id tv_banner_title
 id tv_product_brand_name
 id tv_product_detail_image_title
 id tv_product_discount_late
@@ -3063,6 +3079,8 @@ id view_tree_lifecycle_owner
 id view_tree_on_back_pressed_dispatcher_owner
 id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
+id viewpager_home_banner
+id viewpager_home_banner_indicator
 id visible
 id visible_removing_fragment_view_tag
 id west
@@ -3188,6 +3206,7 @@ layout fragment_cart
 layout fragment_category
 layout fragment_home
 layout fragment_product_detail
+layout item_home_banner
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
