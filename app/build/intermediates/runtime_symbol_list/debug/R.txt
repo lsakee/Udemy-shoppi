@@ -2664,7 +2664,6 @@ int id bounce 0x7f08005e
 int id bounceBoth 0x7f08005f
 int id bounceEnd 0x7f080060
 int id bounceStart 0x7f080061
-int id btn_enter_product_detail 0x7f080062
 int id buttonPanel 0x7f080063
 int id cache_measures 0x7f080064
 int id callMeasure 0x7f080065
@@ -2774,6 +2773,7 @@ int id frost 0x7f0800cc
 int id fullscreen_header 0x7f0800cd
 int id ghost_view 0x7f0800ce
 int id ghost_view_holder 0x7f0800cf
+int id glide_custom_view_target_tag 0x7f0801fa
 int id gone 0x7f0800d0
 int id graph 0x7f0800d1
 int id graph_wrap 0x7f0800d2
@@ -3029,6 +3029,8 @@ int id title 0x7f0801c7
 int id titleDividerNoCustom 0x7f0801c8
 int id title_template 0x7f0801c9
 int id toggle 0x7f0801ca
+int id toolbar_home_icon 0x7f0801fb
+int id toolbar_home_title 0x7f0801fc
 int id toolbar_product_detail 0x7f0801cb
 int id top 0x7f0801cc
 int id topPanel 0x7f0801cd

@@ -1,342 +1,338 @@
 [
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\xml\\backup_rules.xml"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_tabbar_home_on.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xxxhdpi/ic_tabbar_home_on.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable_selector_cart_icon.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable\\selector_cart_icon.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-ldpi_ic_tabbar_home_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-ldpi/ic_tabbar_home_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-ldpi_ic_gnb_back.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-ldpi\\ic_gnb_back.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable_background_splash_screen.xml.flat",
+        "source": "com.shoppi.app-main-40:/drawable/background_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_tabbar_category_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-hdpi/ic_tabbar_category_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_tabbar_home_on.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xxxhdpi\\ic_tabbar_home_on.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_tabbar_category_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxhdpi/ic_tabbar_category_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_img_logo.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xxxhdpi\\img_logo.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_tabbar_cart_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxxhdpi/ic_tabbar_cart_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_gnb_back.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xhdpi\\ic_gnb_back.png"
+        "merged": "com.shoppi.app-merged_res-38:/layout_fragment_product_detail.xml.flat",
+        "source": "com.shoppi.app-main-40:/layout/fragment_product_detail.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_tabbar_category_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-hdpi\\ic_tabbar_category_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_tabbar_cart_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xhdpi/ic_tabbar_cart_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\layout\\activity_main.xml"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-ldpi_ic_tabbar_home_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-ldpi\\ic_tabbar_home_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_img_logo.png.flat",
+        "source": "com.shoppi.app-main-40:/drawable-mdpi/img_logo.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_tabbar_category_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxhdpi\\ic_tabbar_category_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_tabbar_category_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xhdpi/ic_tabbar_category_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_tabbar_home_on.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-mdpi\\ic_tabbar_home_on.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_tabbar_home_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xhdpi/ic_tabbar_home_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_gnb_back.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxhdpi\\ic_gnb_back.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_gnb_back.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_gnb_back.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_tabbar_category_on.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_tabbar_category_on.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-ldpi_ic_tabbar_cart_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-ldpi/ic_tabbar_cart_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_img_logo.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-mdpi\\img_logo.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_tabbar_category_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-hdpi/ic_tabbar_category_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-ldpi_ic_tabbar_cart_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-ldpi\\ic_tabbar_cart_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.shoppi.app-main-40:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-ldpi_ic_tabbar_category_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-ldpi\\ic_tabbar_category_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_tabbar_cart_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-mdpi/ic_tabbar_cart_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_tabbar_category_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxxhdpi\\ic_tabbar_category_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_tabbar_cart_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-hdpi/ic_tabbar_cart_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_tabbar_category_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-mdpi/ic_tabbar_category_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_tabbar_home_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-mdpi\\ic_tabbar_home_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_tabbar_category_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxxhdpi/ic_tabbar_category_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_gnb_back.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-hdpi\\ic_gnb_back.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_tabbar_home_off.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_tabbar_home_off.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_tabbar_cart_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxxhdpi\\ic_tabbar_cart_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_gnb_back.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxxhdpi/ic_gnb_back.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_tabbar_cart_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xhdpi\\ic_tabbar_cart_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_img_logo.png.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xxxhdpi/img_logo.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_tabbar_category_on.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_tabbar_category_on.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable_selector_category_icon.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable\\selector_category_icon.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_gnb_back.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xhdpi/ic_gnb_back.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_tabbar_cart_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xhdpi/ic_tabbar_cart_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_tabbar_cart_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-mdpi\\ic_tabbar_cart_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_gnb_back.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxxhdpi\\ic_gnb_back.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_tabbar_home_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-mdpi/ic_tabbar_home_off.png"
     },
     {
-        "merged": "com.shoppi.app-merged_res-37:/navigation_main_navigation.xml.flat",
-        "source": "com.shoppi.app-main-39:/navigation/main_navigation.xml"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_img_pdp_top_01.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-hdpi\\img_pdp_top_01.webp"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable_selector_home_icon.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable\\selector_home_icon.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-ldpi_ic_tabbar_category_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-ldpi/ic_tabbar_category_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_img_pdp_top_01.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-mdpi\\img_pdp_top_01.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-ldpi_ic_gnb_back.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-ldpi/ic_gnb_back.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_tabbar_category_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-mdpi\\ic_tabbar_category_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.shoppi.app-main-40:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable_background_splash_screen.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable\\background_splash_screen.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-ldpi_ic_tabbar_category_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-ldpi/ic_tabbar_category_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_tabbar_category_off.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_tabbar_category_off.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_gnb_back.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-mdpi/ic_gnb_back.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_tabbar_cart_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxxhdpi\\ic_tabbar_cart_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_tabbar_home_on.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-mdpi/ic_tabbar_home_on.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_img_pdp_top_01.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xxxhdpi/img_pdp_top_01.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_tabbar_cart_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-hdpi\\ic_tabbar_cart_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_img_logo.png.flat",
+        "source": "com.shoppi.app-main-40:/drawable-hdpi/img_logo.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_tabbar_home_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxxhdpi\\ic_tabbar_home_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_img_pdp_top_01.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-mdpi/img_pdp_top_01.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_tabbar_cart_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xhdpi\\ic_tabbar_cart_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable_selector_cart_icon.xml.flat",
+        "source": "com.shoppi.app-main-40:/drawable/selector_cart_icon.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_gnb_back.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-mdpi\\ic_gnb_back.png"
+        "merged": "com.shoppi.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.shoppi.app-main-40:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-ldpi_ic_tabbar_category_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-ldpi\\ic_tabbar_category_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_tabbar_category_off.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_tabbar_category_off.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\menu_navigation_main_menu.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\menu\\navigation_main_menu.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_tabbar_category_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-mdpi/ic_tabbar_category_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_img_logo.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xhdpi\\img_logo.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-mdpi_ic_tabbar_cart_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-mdpi/ic_tabbar_cart_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_tabbar_home_on.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xhdpi/ic_tabbar_home_on.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_tabbar_category_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xhdpi\\ic_tabbar_category_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/layout_fragment_category.xml.flat",
+        "source": "com.shoppi.app-main-40:/layout/fragment_category.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\navigation_main_navigation.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\navigation\\main_navigation.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_img_pdp_top_01.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xhdpi/img_pdp_top_01.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_tabbar_home_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xhdpi\\ic_tabbar_home_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_tabbar_category_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxhdpi/ic_tabbar_category_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_tabbar_home_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxxhdpi/ic_tabbar_home_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_tabbar_category_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-hdpi\\ic_tabbar_category_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\layout\\fragment_home.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_tabbar_cart_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-hdpi/ic_tabbar_cart_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_tabbar_home_on.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xxhdpi\\ic_tabbar_home_on.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_tabbar_cart_off.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_tabbar_cart_off.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_tabbar_home_on.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-hdpi\\ic_tabbar_home_on.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_tabbar_cart_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxhdpi/ic_tabbar_cart_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_tabbar_category_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxhdpi\\ic_tabbar_category_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_tabbar_home_on.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xhdpi\\ic_tabbar_home_on.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable_selector_home_icon.xml.flat",
+        "source": "com.shoppi.app-main-40:/drawable/selector_home_icon.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_tabbar_cart_on.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_tabbar_cart_on.xml"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_ic_tabbar_category_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xhdpi\\ic_tabbar_category_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_img_logo.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-hdpi\\img_logo.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_gnb_back.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-hdpi/ic_gnb_back.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\layout_fragment_category.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\layout\\fragment_category.xml"
+        "merged": "com.shoppi.app-merged_res-38:/layout_fragment_home.xml.flat",
+        "source": "com.shoppi.app-main-40:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\layout_fragment_product_detail.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\layout\\fragment_product_detail.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable_selector_category_icon.xml.flat",
+        "source": "com.shoppi.app-main-40:/drawable/selector_category_icon.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_tabbar_home_off.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_tabbar_home_off.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_tabbar_cart_on.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_tabbar_cart_on.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xhdpi_img_pdp_top_01.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xhdpi\\img_pdp_top_01.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_img_logo.png.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xhdpi/img_logo.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_tabbar_home_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxhdpi\\ic_tabbar_home_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_img_pdp_top_01.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xxhdpi/img_pdp_top_01.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_tabbar_cart_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-mdpi\\ic_tabbar_cart_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_img_logo.png.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xxhdpi/img_logo.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_tabbar_home_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-hdpi\\ic_tabbar_home_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_gnb_back.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxhdpi/ic_gnb_back.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.shoppi.app-merged_res-38:/menu_navigation_main_menu.xml.flat",
+        "source": "com.shoppi.app-main-40:/menu/navigation_main_menu.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xhdpi_ic_tabbar_category_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xhdpi/ic_tabbar_category_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_ic_tabbar_category_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxxhdpi\\ic_tabbar_category_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_tabbar_home_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxhdpi/ic_tabbar_home_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_tabbar_home_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-hdpi/ic_tabbar_home_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-mdpi_ic_tabbar_category_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-mdpi\\ic_tabbar_category_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_tabbar_cart_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxxhdpi/ic_tabbar_cart_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxxhdpi_img_pdp_top_01.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xxxhdpi\\img_pdp_top_01.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_ic_tabbar_home_on.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-hdpi/ic_tabbar_home_on.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_gnb_back.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_gnb_back.xml"
+        "merged": "com.shoppi.app-merged_res-38:/navigation_main_navigation.xml.flat",
+        "source": "com.shoppi.app-main-40:/navigation/main_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\xml\\data_extraction_rules.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_tabbar_home_on.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-xxhdpi/ic_tabbar_home_on.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\layout_fragment_cart.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\layout\\fragment_cart.xml"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-ldpi_ic_tabbar_cart_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-ldpi\\ic_tabbar_cart_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.shoppi.app-main-40:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_tabbar_cart_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxhdpi\\ic_tabbar_cart_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-ldpi_ic_tabbar_cart_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-ldpi/ic_tabbar_cart_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-anydpi-v24_ic_tabbar_cart_off.xml.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-anydpi-v24\\ic_tabbar_cart_off.xml"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_img_logo.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xxhdpi\\img_logo.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxhdpi_ic_tabbar_cart_on.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxhdpi/ic_tabbar_cart_on.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_ic_tabbar_cart_on.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-xxhdpi\\ic_tabbar_cart_on.png"
+        "merged": "com.shoppi.app-merged_res-38:/layout_fragment_cart.xml.flat",
+        "source": "com.shoppi.app-main-40:/layout/fragment_cart.xml"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-xxxhdpi_ic_tabbar_category_off.png.flat",
+        "source": "com.shoppi.app-pngs-33:/drawable-xxxhdpi/ic_tabbar_category_off.png"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-xxhdpi_img_pdp_top_01.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\drawable-xxhdpi\\img_pdp_top_01.webp"
+        "merged": "com.shoppi.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.shoppi.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-merged_res-37:\\drawable-hdpi_ic_tabbar_cart_off.png.flat",
-        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-pngs-32:\\drawable-hdpi\\ic_tabbar_cart_off.png"
+        "merged": "com.shoppi.app-merged_res-38:/drawable-hdpi_img_pdp_top_01.webp.flat",
+        "source": "com.shoppi.app-main-40:/drawable-hdpi/img_pdp_top_01.webp"
     }
 ]

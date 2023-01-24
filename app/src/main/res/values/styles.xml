@@ -2,6 +2,7 @@
 <resources>
     <!-- Text Style -->
     <!-- TextMedium -->
+
     <style name="TextMedium" parent="TextAppearance.AppCompat.Medium">
         <item name="android:textColor">@color/shoppi_black_01</item>
     </style>

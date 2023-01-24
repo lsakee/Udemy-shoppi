@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shoppi.app-mergeDebugResources-35:/values-es/values-es.xml",
+            "outputFile": "com.shoppi.app-mergeDebugResources-36:/values-es/values-es.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lsls4\\.gradle\\caches\\transforms-3\\7c54ab48196a767061a6323f2bc75058\\transformed\\navigation-ui-2.3.5\\res\\values-es\\values-es.xml",
