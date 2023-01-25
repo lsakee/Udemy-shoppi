@@ -87,6 +87,8 @@ string description_product_thumnail
 string label_cart_icon
 string label_category_icon
 string label_home_icon
+string unit_discount_currency
+string unit_discount_rate
 style TextCaption1
 style TextCaption1.Grey01
 style TextCaption1.Grey03

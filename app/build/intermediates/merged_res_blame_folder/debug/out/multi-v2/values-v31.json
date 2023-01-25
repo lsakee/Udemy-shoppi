@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.shoppi.app-mergeDebugResources-40:/values-v31/values-v31.xml",
+            "outputFile": "com.shoppi.app-mergeDebugResources-42:/values-v31/values-v31.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lsls4\\AndroidStudioProjects\\Shoppi-android-udemy\\app\\src\\main\\res\\values-v31\\themes.xml",
