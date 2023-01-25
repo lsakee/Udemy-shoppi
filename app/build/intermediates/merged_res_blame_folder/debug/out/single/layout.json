@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-mergeDebugResources-48:\\layout\\item_home_banner.xml",
+        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-51:\\layout\\item_home_banner.xml"
+    },
+    {
+        "merged": "com.shoppi.app-mergeDebugResources-48:/layout/item_category.xml",
+        "source": "com.shoppi.app-main-51:/layout/item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-mergeDebugResources-48:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.shoppi.app-mergeDebugResources-48:/layout/fragment_category.xml",
+        "source": "com.shoppi.app-main-51:/layout/fragment_category.xml"
+    }
+]

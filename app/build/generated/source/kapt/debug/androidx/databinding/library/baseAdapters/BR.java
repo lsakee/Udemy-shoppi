@@ -5,5 +5,7 @@ public class BR {
 
   public static final int banner = 1;
 
-  public static final int title = 2;
+  public static final int category = 2;
+
+  public static final int title = 3;
 }

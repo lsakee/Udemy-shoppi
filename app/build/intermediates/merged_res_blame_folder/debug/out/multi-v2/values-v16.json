@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.shoppi.app-mergeDebugResources-42:/values-v16/values-v16.xml",
+            "outputFile": "com.shoppi.app-mergeDebugResources-47:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lsls4\\.gradle\\caches\\transforms-3\\065dfa018132f0a621878cd66243e674\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\lsls4\\.gradle\\caches\\transforms-3\\f62042087d1e9dc6c3ee5f8d776584ab\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lsls4\\.gradle\\caches\\transforms-3\\e276f94e9a8f9de3172d1494c48c3fd5\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\lsls4\\.gradle\\caches\\transforms-3\\b1eb5f9f61bd7269dccd9d1f04e2c543\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -2,7 +2,9 @@
 <resources>
     <!-- Text Style -->
     <!-- TextMedium -->
-
+    <style name="Circle">
+        <item name="cornerSize">50%</item>
+    </style>
     <style name="TextMedium" parent="TextAppearance.AppCompat.Medium">
         <item name="android:textColor">@color/shoppi_black_01</item>
     </style>

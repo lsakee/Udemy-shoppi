@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">974935366100-ep66pcfvkfb1se7n2v5qopcdk130iis6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">974935366100</string>
+    <string name="google_api_key" translatable="false">AIzaSyBymCuLvTW_WOF3YlYNYOBOcxzGLjvLPTw</string>
+    <string name="google_app_id" translatable="false">1:974935366100:android:257bfcc3ba239afb6e5e41</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBymCuLvTW_WOF3YlYNYOBOcxzGLjvLPTw</string>
+    <string name="google_storage_bucket" translatable="false">shoppi-e8c97.appspot.com</string>
+    <string name="project_id" translatable="false">shoppi-e8c97</string>
+</resources>
