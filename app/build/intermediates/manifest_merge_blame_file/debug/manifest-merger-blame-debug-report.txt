@@ -43,8 +43,8 @@
 26-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:9:9-44
 27        <activity
 27-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:20:9-30:20
-28            android:name="com.shoppi.app.SplashActivity"
-28-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:21:13-43
+28            android:name="com.shoppi.app.ui.SplashActivity"
+28-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:21:13-46
 29            android:exported="true"
 29-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:22:13-36
 30            android:theme="@style/Theme.Shoppiandroidudemy.Splash" >
@@ -62,8 +62,8 @@
 36        </activity>
 37        <activity
 37-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:31:9-33:40
-38            android:name="com.shoppi.app.MainActivity"
-38-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:32:13-41
+38            android:name="com.shoppi.app.ui.MainActivity"
+38-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:32:13-44
 39            android:exported="false" />
 39-->C:\Users\lsls4\AndroidStudioProjects\Shoppi-android-udemy\app\src\main\AndroidManifest.xml:33:13-37
 40
