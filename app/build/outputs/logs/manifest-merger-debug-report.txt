@@ -53,13 +53,13 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\l
 MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\lsls4\.gradle\caches\transforms-3\67b24d7eff80f5b4262d25538e82315c\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\lsls4\.gradle\caches\transforms-3\0157b880adf1479539f30abfe4a02c01\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\lsls4\.gradle\caches\transforms-3\d54f22188329266e5a21466e68f1b1d3\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\lsls4\.gradle\caches\transforms-3\0116637a46e512e529d1e74e52def3ae\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\lsls4\.gradle\caches\transforms-3\af608c3d32526512a13f6fea7d6d5533\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\lsls4\.gradle\caches\transforms-3\942f6e3f4edc9cfb832b67b6bd62bb3c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\lsls4\.gradle\caches\transforms-3\f7aad8340868e3e88db2cc44f430f7df\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\eb487d9bffee050a5d9fe8aa703c3e38\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\372dacea1200801e95aa37fdece766a1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\32f3a99938702f22634d0b7a6650a5b0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\1917677ac4550d1e0c23ca50fbc962d7\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\lsls4\.gradle\caches\transforms-3\54df16ea70a40b32fc70138e6ad1faab\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\fc2d1e105a5012eefa6642c04c5aee60\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\5f9290ebeacc06621b720216dc92c93a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -342,6 +342,8 @@ MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\lsls4\.gr
 MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\lsls4\.gradle\caches\transforms-3\0157b880adf1479539f30abfe4a02c01\transformed\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\lsls4\.gradle\caches\transforms-3\d54f22188329266e5a21466e68f1b1d3\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\lsls4\.gradle\caches\transforms-3\d54f22188329266e5a21466e68f1b1d3\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\lsls4\.gradle\caches\transforms-3\0116637a46e512e529d1e74e52def3ae\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\lsls4\.gradle\caches\transforms-3\0116637a46e512e529d1e74e52def3ae\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\lsls4\.gradle\caches\transforms-3\af608c3d32526512a13f6fea7d6d5533\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\lsls4\.gradle\caches\transforms-3\af608c3d32526512a13f6fea7d6d5533\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\lsls4\.gradle\caches\transforms-3\942f6e3f4edc9cfb832b67b6bd62bb3c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
@@ -354,8 +356,6 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lsl
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\372dacea1200801e95aa37fdece766a1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\32f3a99938702f22634d0b7a6650a5b0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\32f3a99938702f22634d0b7a6650a5b0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\1917677ac4550d1e0c23ca50fbc962d7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lsls4\.gradle\caches\transforms-3\1917677ac4550d1e0c23ca50fbc962d7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\lsls4\.gradle\caches\transforms-3\54df16ea70a40b32fc70138e6ad1faab\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] C:\Users\lsls4\.gradle\caches\transforms-3\54df16ea70a40b32fc70138e6ad1faab\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lsls4\.gradle\caches\transforms-3\fc2d1e105a5012eefa6642c04c5aee60\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44

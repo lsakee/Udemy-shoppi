@@ -12,6 +12,7 @@ import com.shoppi.app.databinding.FragmentHomeBindingImpl;
 import com.shoppi.app.databinding.ItemCategoryBindingImpl;
 import com.shoppi.app.databinding.ItemCategoryPromotionBindingImpl;
 import com.shoppi.app.databinding.ItemHomeBannerBindingImpl;
+import com.shoppi.app.databinding.ItemTitleBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -35,7 +36,9 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_ITEMHOMEBANNER = 6;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(6);
+  private static final int LAYOUT_ITEMTITLE = 7;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(7);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_category, LAYOUT_FRAGMENTCATEGORY);
@@ -44,6 +47,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category, LAYOUT_ITEMCATEGORY);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category_promotion, LAYOUT_ITEMCATEGORYPROMOTION);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_home_banner, LAYOUT_ITEMHOMEBANNER);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_title, LAYOUT_ITEMTITLE);
   }
 
   @Override
@@ -90,6 +94,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ItemHomeBannerBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for item_home_banner is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ITEMTITLE: {
+          if ("layout/item_title_0".equals(tag)) {
+            return new ItemTitleBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for item_title is invalid. Received: " + tag);
         }
       }
     }
@@ -149,7 +159,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(6);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(7);
 
     static {
       sKeys.put("layout/fragment_category_0", com.shoppi.app.R.layout.fragment_category);
@@ -158,6 +168,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
       sKeys.put("layout/item_category_0", com.shoppi.app.R.layout.item_category);
       sKeys.put("layout/item_category_promotion_0", com.shoppi.app.R.layout.item_category_promotion);
       sKeys.put("layout/item_home_banner_0", com.shoppi.app.R.layout.item_home_banner);
+      sKeys.put("layout/item_title_0", com.shoppi.app.R.layout.item_title);
     }
   }
 }

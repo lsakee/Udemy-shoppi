@@ -96,6 +96,7 @@ layout fragment_product_detail
 layout item_category
 layout item_category_promotion
 layout item_home_banner
+layout item_title
 menu navigation_main_menu
 mipmap ic_launcher
 mipmap ic_launcher_round

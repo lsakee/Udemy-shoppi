@@ -3287,6 +3287,7 @@ layout fragment_product_detail
 layout item_category
 layout item_category_promotion
 layout item_home_banner
+layout item_title
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
