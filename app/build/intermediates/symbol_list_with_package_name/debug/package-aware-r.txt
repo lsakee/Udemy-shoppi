@@ -2676,6 +2676,7 @@ id action_bar_root
 id action_bar_spinner
 id action_bar_subtitle
 id action_bar_title
+id action_category_to_category_detail
 id action_container
 id action_context_bar
 id action_divider
@@ -2951,6 +2952,7 @@ id navigation_bar_item_large_label_view
 id navigation_bar_item_small_label_view
 id navigation_cart
 id navigation_category
+id navigation_category_detail
 id navigation_header_container
 id navigation_home
 id navigation_product_detail
@@ -3102,6 +3104,7 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id toolbar_category
+id toolbar_category_detail
 id toolbar_home_icon
 id toolbar_home_title
 id toolbar_product_detail
@@ -3272,6 +3275,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_cart
 layout fragment_category
+layout fragment_category_detail
 layout fragment_home
 layout fragment_product_detail
 layout item_category

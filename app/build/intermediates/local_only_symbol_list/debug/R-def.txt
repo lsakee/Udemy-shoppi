@@ -42,6 +42,7 @@ drawable selector_category_icon
 drawable selector_home_icon
 drawable selector_viewpager_indicator
 drawable unselected_viewpager_indicator
+id action_category_to_category_detail
 id action_home_to_product_detail
 id bg_banner_product_detail
 id container_main
@@ -54,10 +55,12 @@ id main_navigation
 id navigaiton_main
 id navigation_cart
 id navigation_category
+id navigation_category_detail
 id navigation_home
 id navigation_product_detail
 id rv_category_list
 id toolbar_category
+id toolbar_category_detail
 id toolbar_home_icon
 id toolbar_home_title
 id toolbar_product_detail
@@ -81,6 +84,7 @@ id viewpager_home_banner_indicator
 layout activity_main
 layout fragment_cart
 layout fragment_category
+layout fragment_category_detail
 layout fragment_home
 layout fragment_product_detail
 layout item_category

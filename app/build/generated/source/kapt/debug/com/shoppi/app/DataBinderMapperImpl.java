@@ -7,6 +7,7 @@ import androidx.databinding.DataBinderMapper;
 import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
 import com.shoppi.app.databinding.FragmentCategoryBindingImpl;
+import com.shoppi.app.databinding.FragmentCategoryDetailBindingImpl;
 import com.shoppi.app.databinding.FragmentHomeBindingImpl;
 import com.shoppi.app.databinding.ItemCategoryBindingImpl;
 import com.shoppi.app.databinding.ItemHomeBannerBindingImpl;
@@ -23,16 +24,19 @@ import java.util.List;
 public class DataBinderMapperImpl extends DataBinderMapper {
   private static final int LAYOUT_FRAGMENTCATEGORY = 1;
 
-  private static final int LAYOUT_FRAGMENTHOME = 2;
+  private static final int LAYOUT_FRAGMENTCATEGORYDETAIL = 2;
 
-  private static final int LAYOUT_ITEMCATEGORY = 3;
+  private static final int LAYOUT_FRAGMENTHOME = 3;
 
-  private static final int LAYOUT_ITEMHOMEBANNER = 4;
+  private static final int LAYOUT_ITEMCATEGORY = 4;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(4);
+  private static final int LAYOUT_ITEMHOMEBANNER = 5;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(5);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_category, LAYOUT_FRAGMENTCATEGORY);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_category_detail, LAYOUT_FRAGMENTCATEGORYDETAIL);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_home, LAYOUT_FRAGMENTHOME);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category, LAYOUT_ITEMCATEGORY);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_home_banner, LAYOUT_ITEMHOMEBANNER);
@@ -52,6 +56,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new FragmentCategoryBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for fragment_category is invalid. Received: " + tag);
+        }
+        case  LAYOUT_FRAGMENTCATEGORYDETAIL: {
+          if ("layout/fragment_category_detail_0".equals(tag)) {
+            return new FragmentCategoryDetailBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_category_detail is invalid. Received: " + tag);
         }
         case  LAYOUT_FRAGMENTHOME: {
           if ("layout/fragment_home_0".equals(tag)) {
@@ -116,21 +126,23 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerBrLookup {
-    static final SparseArray<String> sKeys = new SparseArray<String>(4);
+    static final SparseArray<String> sKeys = new SparseArray<String>(5);
 
     static {
       sKeys.put(0, "_all");
       sKeys.put(1, "banner");
       sKeys.put(2, "category");
       sKeys.put(3, "title");
+      sKeys.put(4, "viewModel");
     }
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(4);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(5);
 
     static {
       sKeys.put("layout/fragment_category_0", com.shoppi.app.R.layout.fragment_category);
+      sKeys.put("layout/fragment_category_detail_0", com.shoppi.app.R.layout.fragment_category_detail);
       sKeys.put("layout/fragment_home_0", com.shoppi.app.R.layout.fragment_home);
       sKeys.put("layout/item_category_0", com.shoppi.app.R.layout.item_category);
       sKeys.put("layout/item_home_banner_0", com.shoppi.app.R.layout.item_home_banner);

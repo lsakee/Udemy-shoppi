@@ -8,4 +8,6 @@ public class BR {
   public static final int category = 2;
 
   public static final int title = 3;
+
+  public static final int viewModel = 4;
 }

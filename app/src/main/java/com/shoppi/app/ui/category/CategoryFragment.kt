@@ -5,11 +5,18 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.os.bundleOf
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import androidx.lifecycle.Observer
+import androidx.navigation.fragment.findNavController
 import com.shoppi.app.R
+import com.shoppi.app.common.KEY_CATEGORY_ID
+import com.shoppi.app.common.KEY_CATEGORY_LABEl
 import com.shoppi.app.databinding.FragmentCategoryBinding
 import com.shoppi.app.databinding.ItemCategoryBinding
+import com.shoppi.app.model.Category
+import com.shoppi.app.ui.common.EventObserver
 import com.shoppi.app.ui.common.ViewModelFactory
 
 class CategoryFragment : Fragment() {
@@ -21,17 +28,30 @@ class CategoryFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        binding = FragmentCategoryBinding.inflate(inflater,container,false)
+        binding = FragmentCategoryBinding.inflate(inflater, container, false)
         return binding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val categoryAdapter = CategoryAdapter()
-        binding.rvCategoryList.adapter =categoryAdapter
+        val categoryAdapter = CategoryAdapter(viewModel)
+        binding.rvCategoryList.adapter = categoryAdapter
         viewModel.items.observe(viewLifecycleOwner) {
             categoryAdapter.submitList(it)
         }
+        //프래그먼트 이동
+        viewModel.openCategoryEvent.observe(viewLifecycleOwner,EventObserver{
+            openCategoryDetail(it.categoryId,it.label)
+        })
+    }
+    //프래그먼트 이동
+    private fun openCategoryDetail(categoryId: String, categoryLabel: String) {
+        findNavController().navigate(
+            R.id.action_category_to_category_detail, bundleOf(
+                KEY_CATEGORY_ID to categoryId,
+                KEY_CATEGORY_LABEl to categoryLabel
+            )
+        )
     }
 }

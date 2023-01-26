@@ -2675,6 +2675,7 @@ int id action_bar_root 0x7f080036
 int id action_bar_spinner 0x7f080037
 int id action_bar_subtitle 0x7f080038
 int id action_bar_title 0x7f080039
+int id action_category_to_category_detail 0x7f08021b
 int id action_container 0x7f08003a
 int id action_context_bar 0x7f08003b
 int id action_divider 0x7f08003c
@@ -2950,6 +2951,7 @@ int id navigation_bar_item_large_label_view 0x7f080148
 int id navigation_bar_item_small_label_view 0x7f080149
 int id navigation_cart 0x7f08014a
 int id navigation_category 0x7f08014b
+int id navigation_category_detail 0x7f08021c
 int id navigation_header_container 0x7f08014c
 int id navigation_home 0x7f08014d
 int id navigation_product_detail 0x7f08014e
@@ -3101,6 +3103,7 @@ int id titleDividerNoCustom 0x7f0801de
 int id title_template 0x7f0801df
 int id toggle 0x7f0801e0
 int id toolbar_category 0x7f08021a
+int id toolbar_category_detail 0x7f08021d
 int id toolbar_home_icon 0x7f0801e1
 int id toolbar_home_title 0x7f0801e2
 int id toolbar_product_detail 0x7f0801e3
@@ -3271,6 +3274,7 @@ int layout design_text_input_end_icon 0x7f0b002d
 int layout design_text_input_start_icon 0x7f0b002e
 int layout fragment_cart 0x7f0b002f
 int layout fragment_category 0x7f0b0030
+int layout fragment_category_detail 0x7f0b007f
 int layout fragment_home 0x7f0b0031
 int layout fragment_product_detail 0x7f0b0032
 int layout item_category 0x7f0b007e
