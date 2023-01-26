@@ -2870,6 +2870,7 @@ id iv_banner_image
 id iv_category_thumbnail
 id iv_product_detail_image
 id iv_product_thumbnail
+id iv_promotion_image
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3001,6 +3002,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rv_category_detail
 id rv_category_list
 id save_non_transition_alpha
 id save_overlay_view
@@ -3133,6 +3135,10 @@ id tv_product_discount_late
 id tv_product_discount_price
 id tv_product_label
 id tv_product_price
+id tv_promotion_discount_rate
+id tv_promotion_label
+id tv_promotion_original_price
+id tv_promotion_price
 id unchecked
 id uniform
 id unlabeled
@@ -3279,6 +3285,7 @@ layout fragment_category_detail
 layout fragment_home
 layout fragment_product_detail
 layout item_category
+layout item_category_promotion
 layout item_home_banner
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
@@ -3529,6 +3536,7 @@ style Animation_AppCompat_DropDownUp
 style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style Animation_MaterialComponents_BottomSheetDialog
+style AppbarStyle
 style Base_AlertDialog_AppCompat
 style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog

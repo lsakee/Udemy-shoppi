@@ -51,6 +51,7 @@ id iv_banner_image
 id iv_category_thumbnail
 id iv_product_detail_image
 id iv_product_thumbnail
+id iv_promotion_image
 id main_navigation
 id navigaiton_main
 id navigation_cart
@@ -58,6 +59,7 @@ id navigation_category
 id navigation_category_detail
 id navigation_home
 id navigation_product_detail
+id rv_category_detail
 id rv_category_list
 id toolbar_category
 id toolbar_category_detail
@@ -78,6 +80,10 @@ id tv_product_discount_late
 id tv_product_discount_price
 id tv_product_label
 id tv_product_price
+id tv_promotion_discount_rate
+id tv_promotion_label
+id tv_promotion_original_price
+id tv_promotion_price
 id view_divider_product
 id viewpager_home_banner
 id viewpager_home_banner_indicator
@@ -88,6 +94,7 @@ layout fragment_category_detail
 layout fragment_home
 layout fragment_product_detail
 layout item_category
+layout item_category_promotion
 layout item_home_banner
 menu navigation_main_menu
 mipmap ic_launcher
@@ -108,6 +115,7 @@ string label_home_icon
 string project_id
 string unit_discount_currency
 string unit_discount_rate
+style AppbarStyle
 style Circle
 style TextCaption1
 style TextCaption1.Grey01

@@ -7,7 +7,9 @@ public class BR {
 
   public static final int category = 2;
 
-  public static final int title = 3;
+  public static final int product = 3;
 
-  public static final int viewModel = 4;
+  public static final int title = 4;
+
+  public static final int viewModel = 5;
 }

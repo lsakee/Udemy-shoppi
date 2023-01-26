@@ -120,7 +120,7 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
         java.lang.String bannerBadgeBackgroundColor = null;
         java.lang.String bannerBackgroundImageUrl = null;
         java.lang.String bannerProductDetailLabel = null;
-        com.shoppi.app.model.ProductDetail bannerProductDetail = null;
+        com.shoppi.app.model.Product bannerProductDetail = null;
         java.lang.String bannerProductDetailBrandName = null;
 
         if ((dirtyFlags & 0x3L) != 0) {

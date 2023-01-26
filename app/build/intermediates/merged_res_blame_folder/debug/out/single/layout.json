@@ -4,8 +4,8 @@
         "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-51:\\layout\\item_home_banner.xml"
     },
     {
-        "merged": "com.shoppi.app-mergeDebugResources-48:/layout/item_category.xml",
-        "source": "com.shoppi.app-main-51:/layout/item_category.xml"
+        "merged": "com.shoppi.app-mergeDebugResources-48:/layout/item_category_promotion.xml",
+        "source": "com.shoppi.app-main-51:/layout/item_category_promotion.xml"
     },
     {
         "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-mergeDebugResources-48:\\layout\\fragment_category.xml",
@@ -22,5 +22,13 @@
     {
         "merged": "com.shoppi.app-mergeDebugResources-48:/layout/fragment_category_detail.xml",
         "source": "com.shoppi.app-main-51:/layout/fragment_category_detail.xml"
+    },
+    {
+        "merged": "com.shoppi.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.shoppi.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-mergeDebugResources-48:\\layout\\fragment_category_detail.xml",
+        "source": "C:\\Users\\lsls4\\.gradle\\daemon\\7.3.3\\com.shoppi.app-main-51:\\layout\\fragment_category_detail.xml"
     }
 ]

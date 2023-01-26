@@ -10,6 +10,7 @@ import com.shoppi.app.databinding.FragmentCategoryBindingImpl;
 import com.shoppi.app.databinding.FragmentCategoryDetailBindingImpl;
 import com.shoppi.app.databinding.FragmentHomeBindingImpl;
 import com.shoppi.app.databinding.ItemCategoryBindingImpl;
+import com.shoppi.app.databinding.ItemCategoryPromotionBindingImpl;
 import com.shoppi.app.databinding.ItemHomeBannerBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
@@ -30,15 +31,18 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_ITEMCATEGORY = 4;
 
-  private static final int LAYOUT_ITEMHOMEBANNER = 5;
+  private static final int LAYOUT_ITEMCATEGORYPROMOTION = 5;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(5);
+  private static final int LAYOUT_ITEMHOMEBANNER = 6;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(6);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_category, LAYOUT_FRAGMENTCATEGORY);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_category_detail, LAYOUT_FRAGMENTCATEGORYDETAIL);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_home, LAYOUT_FRAGMENTHOME);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category, LAYOUT_ITEMCATEGORY);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category_promotion, LAYOUT_ITEMCATEGORYPROMOTION);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_home_banner, LAYOUT_ITEMHOMEBANNER);
   }
 
@@ -74,6 +78,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ItemCategoryBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for item_category is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ITEMCATEGORYPROMOTION: {
+          if ("layout/item_category_promotion_0".equals(tag)) {
+            return new ItemCategoryPromotionBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for item_category_promotion is invalid. Received: " + tag);
         }
         case  LAYOUT_ITEMHOMEBANNER: {
           if ("layout/item_home_banner_0".equals(tag)) {
@@ -126,25 +136,27 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerBrLookup {
-    static final SparseArray<String> sKeys = new SparseArray<String>(5);
+    static final SparseArray<String> sKeys = new SparseArray<String>(6);
 
     static {
       sKeys.put(0, "_all");
       sKeys.put(1, "banner");
       sKeys.put(2, "category");
-      sKeys.put(3, "title");
-      sKeys.put(4, "viewModel");
+      sKeys.put(3, "product");
+      sKeys.put(4, "title");
+      sKeys.put(5, "viewModel");
     }
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(5);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(6);
 
     static {
       sKeys.put("layout/fragment_category_0", com.shoppi.app.R.layout.fragment_category);
       sKeys.put("layout/fragment_category_detail_0", com.shoppi.app.R.layout.fragment_category_detail);
       sKeys.put("layout/fragment_home_0", com.shoppi.app.R.layout.fragment_home);
       sKeys.put("layout/item_category_0", com.shoppi.app.R.layout.item_category);
+      sKeys.put("layout/item_category_promotion_0", com.shoppi.app.R.layout.item_category_promotion);
       sKeys.put("layout/item_home_banner_0", com.shoppi.app.R.layout.item_home_banner);
     }
   }

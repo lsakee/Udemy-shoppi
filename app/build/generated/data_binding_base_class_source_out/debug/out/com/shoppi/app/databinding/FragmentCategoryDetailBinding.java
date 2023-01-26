@@ -9,17 +9,22 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.widget.Toolbar;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
+import androidx.recyclerview.widget.RecyclerView;
 import com.shoppi.app.R;
 import java.lang.Deprecated;
 import java.lang.Object;
 
 public abstract class FragmentCategoryDetailBinding extends ViewDataBinding {
   @NonNull
+  public final RecyclerView rvCategoryDetail;
+
+  @NonNull
   public final Toolbar toolbarCategoryDetail;
 
   protected FragmentCategoryDetailBinding(Object _bindingComponent, View _root,
-      int _localFieldCount, Toolbar toolbarCategoryDetail) {
+      int _localFieldCount, RecyclerView rvCategoryDetail, Toolbar toolbarCategoryDetail) {
     super(_bindingComponent, _root, _localFieldCount);
+    this.rvCategoryDetail = rvCategoryDetail;
     this.toolbarCategoryDetail = toolbarCategoryDetail;
   }
 
