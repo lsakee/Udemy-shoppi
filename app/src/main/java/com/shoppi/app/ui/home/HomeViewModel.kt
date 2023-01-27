@@ -6,11 +6,15 @@ import androidx.lifecycle.ViewModel
 import com.shoppi.app.model.Banner
 import com.shoppi.app.model.Title
 import com.shoppi.app.repository.home.HomeRepository
+import com.shoppi.app.ui.common.Event
 
 class HomeViewModel(private val homeRepository: HomeRepository) : ViewModel() {
 
     private val _title = MutableLiveData<Title>()
     val title: LiveData<Title> = _title
+    private val _openProductEvent = MutableLiveData<Event<String>>()
+    val openProductEvent: LiveData<Event<String>> = _openProductEvent
+
 
     private val _topBanners = MutableLiveData<List<Banner>>()
     val topBanner: LiveData<List<Banner>> = _topBanners
@@ -19,7 +23,12 @@ class HomeViewModel(private val homeRepository: HomeRepository) : ViewModel() {
         loadHomeData()
     }
 
-   private fun loadHomeData() {
+    fun openProductDetail(productId: String) {
+        _openProductEvent.value = Event(productId)
+    }
+
+
+    private fun loadHomeData() {
         val homeData = homeRepository.getHomeData()
         homeData?.let { homeData ->
             _title.value = homeData.title

@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.os.persistableBundleOf
 import com.shoppi.app.model.Category
 import com.shoppi.app.model.CategoryDetail
+import com.shoppi.app.model.Product
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
@@ -15,10 +16,16 @@ import retrofit2.http.Path
 interface ApiClient {
 
     @GET("categories.json")
-    suspend fun getCategories():List<Category>
+    suspend fun getCategories(): List<Category>
+
     @GET("fashion_female.json")
-    suspend fun  getCategoyDatail():CategoryDetail
+    suspend fun getCategoyDatail(): CategoryDetail
+
+    @GET("products/{productId}.json")
+    suspend fun getProductDetail(@Path("productId") productId: String): Product
+
     companion object {
+
 
         private const val baseUrl =
             "https://shoppi-e8c97-default-rtdb.asia-southeast1.firebasedatabase.app/"

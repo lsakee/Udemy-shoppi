@@ -11,6 +11,8 @@ import com.shoppi.app.databinding.FragmentCategoryDetailBindingImpl;
 import com.shoppi.app.databinding.FragmentHomeBindingImpl;
 import com.shoppi.app.databinding.ItemCategoryBindingImpl;
 import com.shoppi.app.databinding.ItemCategoryPromotionBindingImpl;
+import com.shoppi.app.databinding.ItemCategoryTopSellingBindingImpl;
+import com.shoppi.app.databinding.ItemCategoryTopSellingSectionBindingImpl;
 import com.shoppi.app.databinding.ItemHomeBannerBindingImpl;
 import com.shoppi.app.databinding.ItemTitleBindingImpl;
 import java.lang.IllegalArgumentException;
@@ -34,11 +36,15 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_ITEMCATEGORYPROMOTION = 5;
 
-  private static final int LAYOUT_ITEMHOMEBANNER = 6;
+  private static final int LAYOUT_ITEMCATEGORYTOPSELLING = 6;
 
-  private static final int LAYOUT_ITEMTITLE = 7;
+  private static final int LAYOUT_ITEMCATEGORYTOPSELLINGSECTION = 7;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(7);
+  private static final int LAYOUT_ITEMHOMEBANNER = 8;
+
+  private static final int LAYOUT_ITEMTITLE = 9;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(9);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_category, LAYOUT_FRAGMENTCATEGORY);
@@ -46,6 +52,8 @@ public class DataBinderMapperImpl extends DataBinderMapper {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.fragment_home, LAYOUT_FRAGMENTHOME);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category, LAYOUT_ITEMCATEGORY);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category_promotion, LAYOUT_ITEMCATEGORYPROMOTION);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category_top_selling, LAYOUT_ITEMCATEGORYTOPSELLING);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_category_top_selling_section, LAYOUT_ITEMCATEGORYTOPSELLINGSECTION);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_home_banner, LAYOUT_ITEMHOMEBANNER);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.shoppi.app.R.layout.item_title, LAYOUT_ITEMTITLE);
   }
@@ -88,6 +96,18 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new ItemCategoryPromotionBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for item_category_promotion is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ITEMCATEGORYTOPSELLING: {
+          if ("layout/item_category_top_selling_0".equals(tag)) {
+            return new ItemCategoryTopSellingBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for item_category_top_selling is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ITEMCATEGORYTOPSELLINGSECTION: {
+          if ("layout/item_category_top_selling_section_0".equals(tag)) {
+            return new ItemCategoryTopSellingSectionBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for item_category_top_selling_section is invalid. Received: " + tag);
         }
         case  LAYOUT_ITEMHOMEBANNER: {
           if ("layout/item_home_banner_0".equals(tag)) {
@@ -159,7 +179,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(7);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(9);
 
     static {
       sKeys.put("layout/fragment_category_0", com.shoppi.app.R.layout.fragment_category);
@@ -167,6 +187,8 @@ public class DataBinderMapperImpl extends DataBinderMapper {
       sKeys.put("layout/fragment_home_0", com.shoppi.app.R.layout.fragment_home);
       sKeys.put("layout/item_category_0", com.shoppi.app.R.layout.item_category);
       sKeys.put("layout/item_category_promotion_0", com.shoppi.app.R.layout.item_category_promotion);
+      sKeys.put("layout/item_category_top_selling_0", com.shoppi.app.R.layout.item_category_top_selling);
+      sKeys.put("layout/item_category_top_selling_section_0", com.shoppi.app.R.layout.item_category_top_selling_section);
       sKeys.put("layout/item_home_banner_0", com.shoppi.app.R.layout.item_home_banner);
       sKeys.put("layout/item_title_0", com.shoppi.app.R.layout.item_title);
     }

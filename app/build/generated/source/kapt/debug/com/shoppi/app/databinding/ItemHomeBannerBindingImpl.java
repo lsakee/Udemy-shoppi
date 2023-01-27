@@ -5,7 +5,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import android.view.View;
 @SuppressWarnings("unchecked")
-public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
+public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding implements com.shoppi.app.generated.callback.OnClickListener.Listener {
 
     @Nullable
     private static final androidx.databinding.ViewDataBinding.IncludedLayouts sIncludes;
@@ -20,6 +20,8 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
     @NonNull
     private final androidx.constraintlayout.widget.ConstraintLayout mboundView0;
     // variables
+    @Nullable
+    private final android.view.View.OnClickListener mCallback2;
     // values
     // listeners
     // Inverse Binding Event Handlers
@@ -30,8 +32,8 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
     private ItemHomeBannerBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
             , (android.view.View) bindings[10]
-            , (android.widget.ImageView) bindings[4]
-            , (android.widget.ImageView) bindings[1]
+            , (com.google.android.material.imageview.ShapeableImageView) bindings[4]
+            , (com.google.android.material.imageview.ShapeableImageView) bindings[1]
             , (android.widget.TextView) bindings[2]
             , (android.widget.TextView) bindings[5]
             , (android.widget.TextView) bindings[8]
@@ -53,13 +55,14 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
         this.tvBannerTitle.setTag(null);
         setRootTag(root);
         // listeners
+        mCallback2 = new com.shoppi.app.generated.callback.OnClickListener(this, 1);
         invalidateAll();
     }
 
     @Override
     public void invalidateAll() {
         synchronized(this) {
-                mDirtyFlags = 0x2L;
+                mDirtyFlags = 0x4L;
         }
         requestRebind();
     }
@@ -80,6 +83,9 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
         if (BR.banner == variableId) {
             setBanner((com.shoppi.app.model.Banner) variable);
         }
+        else if (BR.viewModel == variableId) {
+            setViewModel((com.shoppi.app.ui.home.HomeViewModel) variable);
+        }
         else {
             variableSet = false;
         }
@@ -92,6 +98,14 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
             mDirtyFlags |= 0x1L;
         }
         notifyPropertyChanged(BR.banner);
+        super.requestRebind();
+    }
+    public void setViewModel(@Nullable com.shoppi.app.ui.home.HomeViewModel ViewModel) {
+        this.mViewModel = ViewModel;
+        synchronized(this) {
+            mDirtyFlags |= 0x2L;
+        }
+        notifyPropertyChanged(BR.viewModel);
         super.requestRebind();
     }
 
@@ -118,12 +132,13 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
         java.lang.String bannerBadgeLabel = null;
         java.lang.String bannerLabel = null;
         java.lang.String bannerBadgeBackgroundColor = null;
+        com.shoppi.app.ui.home.HomeViewModel viewModel = mViewModel;
         java.lang.String bannerBackgroundImageUrl = null;
         java.lang.String bannerProductDetailLabel = null;
         com.shoppi.app.model.Product bannerProductDetail = null;
         java.lang.String bannerProductDetailBrandName = null;
 
-        if ((dirtyFlags & 0x3L) != 0) {
+        if ((dirtyFlags & 0x5L) != 0) {
 
 
 
@@ -163,7 +178,7 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
                 tvBannerDetailProductDiscountRateAndroidStringUnitDiscountRateBannerProductDetailDiscountRate = tvBannerDetailProductDiscountRate.getResources().getString(R.string.unit_discount_rate, bannerProductDetailDiscountRate);
         }
         // batch finished
-        if ((dirtyFlags & 0x3L) != 0) {
+        if ((dirtyFlags & 0x5L) != 0) {
             // api target 1
 
             com.shoppi.app.ui.common.ImageBindingAdaptersKt.loadImage(this.ivBannerDetailThumbnail, bannerProductDetailThumbnailImageUrl);
@@ -174,17 +189,64 @@ public class ItemHomeBannerBindingImpl extends ItemHomeBannerBinding  {
             com.shoppi.app.ui.common.TextBindingAdapterKt.applyPriceDiscountRate(this.tvBannerDetailProductDiscountPrice, bannerProductDetailPrice, bannerProductDetailDiscountRate);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.tvBannerDetailProductDiscountRate, tvBannerDetailProductDiscountRateAndroidStringUnitDiscountRateBannerProductDetailDiscountRate);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.tvBannerDetailProductLabel, bannerProductDetailLabel);
-            com.shoppi.app.ui.common.TextBindingAdapterKt.applyPriceFormat(this.tvBannerDetailProductPrice, bannerProductDetailPrice);
+            com.shoppi.app.ui.common.TextBindingAdapterKt.applyPriceAndStrikeStyle(this.tvBannerDetailProductPrice, bannerProductDetailPrice, true);
             androidx.databinding.adapters.TextViewBindingAdapter.setText(this.tvBannerTitle, bannerLabel);
+        }
+        if ((dirtyFlags & 0x4L) != 0) {
+            // api target 1
+
+            this.mboundView0.setOnClickListener(mCallback2);
         }
     }
     // Listener Stub Implementations
     // callback impls
+    public final void _internalCallbackOnClick(int sourceId , android.view.View callbackArg_0) {
+        // localize variables for thread safety
+        // banner
+        com.shoppi.app.model.Banner banner = mBanner;
+        // banner.productDetail.productId
+        java.lang.String bannerProductDetailProductId = null;
+        // banner != null
+        boolean bannerJavaLangObjectNull = false;
+        // viewModel
+        com.shoppi.app.ui.home.HomeViewModel viewModel = mViewModel;
+        // banner.productDetail != null
+        boolean bannerProductDetailJavaLangObjectNull = false;
+        // viewModel != null
+        boolean viewModelJavaLangObjectNull = false;
+        // banner.productDetail
+        com.shoppi.app.model.Product bannerProductDetail = null;
+
+
+
+        viewModelJavaLangObjectNull = (viewModel) != (null);
+        if (viewModelJavaLangObjectNull) {
+
+
+
+            bannerJavaLangObjectNull = (banner) != (null);
+            if (bannerJavaLangObjectNull) {
+
+
+                bannerProductDetail = banner.getProductDetail();
+
+                bannerProductDetailJavaLangObjectNull = (bannerProductDetail) != (null);
+                if (bannerProductDetailJavaLangObjectNull) {
+
+
+                    bannerProductDetailProductId = bannerProductDetail.getProductId();
+
+                    viewModel.openProductDetail(bannerProductDetailProductId);
+                }
+            }
+        }
+    }
     // dirty flag
     private  long mDirtyFlags = 0xffffffffffffffffL;
     /* flag mapping
         flag 0 (0x1L): banner
-        flag 1 (0x2L): null
+        flag 1 (0x2L): viewModel
+        flag 2 (0x3L): null
     flag mapping end*/
     //end
 }

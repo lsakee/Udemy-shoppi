@@ -4,15 +4,16 @@ package com.shoppi.app.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
+import com.google.android.material.imageview.ShapeableImageView;
 import com.shoppi.app.R;
 import com.shoppi.app.model.Banner;
+import com.shoppi.app.ui.home.HomeViewModel;
 import java.lang.Deprecated;
 import java.lang.Object;
 
@@ -21,10 +22,10 @@ public abstract class ItemHomeBannerBinding extends ViewDataBinding {
   public final View bgBannerProductDetail;
 
   @NonNull
-  public final ImageView ivBannerDetailThumbnail;
+  public final ShapeableImageView ivBannerDetailThumbnail;
 
   @NonNull
-  public final ImageView ivBannerImage;
+  public final ShapeableImageView ivBannerImage;
 
   @NonNull
   public final TextView tvBannerBadge;
@@ -48,11 +49,14 @@ public abstract class ItemHomeBannerBinding extends ViewDataBinding {
   public final TextView tvBannerTitle;
 
   @Bindable
+  protected HomeViewModel mViewModel;
+
+  @Bindable
   protected Banner mBanner;
 
   protected ItemHomeBannerBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      View bgBannerProductDetail, ImageView ivBannerDetailThumbnail, ImageView ivBannerImage,
-      TextView tvBannerBadge, TextView tvBannerDetailBrandLabel,
+      View bgBannerProductDetail, ShapeableImageView ivBannerDetailThumbnail,
+      ShapeableImageView ivBannerImage, TextView tvBannerBadge, TextView tvBannerDetailBrandLabel,
       TextView tvBannerDetailProductDiscountPrice, TextView tvBannerDetailProductDiscountRate,
       TextView tvBannerDetailProductLabel, TextView tvBannerDetailProductPrice,
       TextView tvBannerTitle) {
@@ -67,6 +71,13 @@ public abstract class ItemHomeBannerBinding extends ViewDataBinding {
     this.tvBannerDetailProductLabel = tvBannerDetailProductLabel;
     this.tvBannerDetailProductPrice = tvBannerDetailProductPrice;
     this.tvBannerTitle = tvBannerTitle;
+  }
+
+  public abstract void setViewModel(@Nullable HomeViewModel viewModel);
+
+  @Nullable
+  public HomeViewModel getViewModel() {
+    return mViewModel;
   }
 
   public abstract void setBanner(@Nullable Banner banner);

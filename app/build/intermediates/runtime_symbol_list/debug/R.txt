@@ -2508,7 +2508,9 @@ int drawable abc_textfield_search_material 0x7f070058
 int drawable abc_vector_test 0x7f070059
 int drawable avd_hide_password 0x7f07005a
 int drawable avd_show_password 0x7f07005b
+int drawable background_black_gradient 0x7f0700ca
 int drawable background_bluegey_r20 0x7f0700c7
+int drawable background_circle_gradient 0x7f0700c9
 int drawable background_purple_r24 0x7f0700c8
 int drawable background_splash_screen 0x7f07005c
 int drawable background_whilte 0x7f07005d
@@ -2867,6 +2869,7 @@ int id item_touch_helper_previous_elevation 0x7f0800f5
 int id iv_banner_detail_thumbnail 0x7f0800f6
 int id iv_banner_image 0x7f0800f7
 int id iv_category_thumbnail 0x7f080217
+int id iv_category_top_selling_image 0x7f080224
 int id iv_product_detail_image 0x7f0800f8
 int id iv_product_thumbnail 0x7f0800f9
 int id iv_promotion_image 0x7f08021e
@@ -3003,6 +3006,7 @@ int id rounded 0x7f08017a
 int id row_index_key 0x7f08017b
 int id rv_category_detail 0x7f08021f
 int id rv_category_list 0x7f080219
+int id rv_category_section 0x7f080225
 int id save_non_transition_alpha 0x7f08017c
 int id save_overlay_view 0x7f08017d
 int id sawtooth 0x7f08017e
@@ -3128,6 +3132,9 @@ int id tv_banner_detail_product_label 0x7f0801f3
 int id tv_banner_detail_product_price 0x7f0801f4
 int id tv_banner_title 0x7f0801f5
 int id tv_category_badge 0x7f080218
+int id tv_category_section_title 0x7f080226
+int id tv_category_top_selling_badge 0x7f080227
+int id tv_category_top_selling_label 0x7f080228
 int id tv_product_brand_name 0x7f0801f6
 int id tv_product_detail_image_title 0x7f0801f7
 int id tv_product_discount_late 0x7f0801f8
@@ -3285,6 +3292,8 @@ int layout fragment_home 0x7f0b0031
 int layout fragment_product_detail 0x7f0b0032
 int layout item_category 0x7f0b007e
 int layout item_category_promotion 0x7f0b0080
+int layout item_category_top_selling 0x7f0b0082
+int layout item_category_top_selling_section 0x7f0b0083
 int layout item_home_banner 0x7f0b0033
 int layout item_title 0x7f0b0081
 int layout m3_alert_dialog 0x7f0b0034
@@ -3836,6 +3845,8 @@ int style Platform_V21_AppCompat_Light 0x7f12012e
 int style Platform_V25_AppCompat 0x7f12012f
 int style Platform_V25_AppCompat_Light 0x7f120130
 int style Platform_Widget_AppCompat_Spinner 0x7f120131
+int style RoundedBig 0x7f120440
+int style RoundedMedium 0x7f120441
 int style RtlOverlay_DialogWindowTitle_AppCompat 0x7f120132
 int style RtlOverlay_Widget_AppCompat_ActionBar_TitleItem 0x7f120133
 int style RtlOverlay_Widget_AppCompat_DialogTitle_Icon 0x7f120134
@@ -4048,6 +4059,9 @@ int style TextHeadLine32_White 0x7f120202
 int style TextHeadLine32_White_Bold 0x7f120203
 int style TextHeadLine5_Black02 0x7f120204
 int style TextHeadLine5_Black02_Bold 0x7f120205
+int style TextHeadline32 0x7f120442
+int style TextHeadline32_White 0x7f120443
+int style TextHeadline32_White_Bold 0x7f120444
 int style TextMedium 0x7f120206
 int style TextMedium_Bold 0x7f120207
 int style TextMedium_Purple 0x7f120208

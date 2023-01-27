@@ -21,7 +21,9 @@ color shoppi_purple
 color shoppi_white
 dimen viewpager_item_margin
 dimen viewpager_item_width
+drawable background_black_gradient
 drawable background_bluegey_r20
+drawable background_circle_gradient
 drawable background_purple_r24
 drawable background_splash_screen
 drawable background_whilte
@@ -49,6 +51,7 @@ id container_main
 id iv_banner_detail_thumbnail
 id iv_banner_image
 id iv_category_thumbnail
+id iv_category_top_selling_image
 id iv_product_detail_image
 id iv_product_thumbnail
 id iv_promotion_image
@@ -61,6 +64,7 @@ id navigation_home
 id navigation_product_detail
 id rv_category_detail
 id rv_category_list
+id rv_category_section
 id toolbar_category
 id toolbar_category_detail
 id toolbar_home_icon
@@ -74,6 +78,9 @@ id tv_banner_detail_product_label
 id tv_banner_detail_product_price
 id tv_banner_title
 id tv_category_badge
+id tv_category_section_title
+id tv_category_top_selling_badge
+id tv_category_top_selling_label
 id tv_product_brand_name
 id tv_product_detail_image_title
 id tv_product_discount_late
@@ -95,6 +102,8 @@ layout fragment_home
 layout fragment_product_detail
 layout item_category
 layout item_category_promotion
+layout item_category_top_selling
+layout item_category_top_selling_section
 layout item_home_banner
 layout item_title
 menu navigation_main_menu
@@ -118,6 +127,8 @@ string unit_discount_currency
 string unit_discount_rate
 style AppbarStyle
 style Circle
+style RoundedBig
+style RoundedMedium
 style TextCaption1
 style TextCaption1.Grey01
 style TextCaption1.Grey03
@@ -132,6 +143,9 @@ style TextHeadLine32.White
 style TextHeadLine32.White.Bold
 style TextHeadLine5.Black02
 style TextHeadLine5.Black02.Bold
+style TextHeadline32
+style TextHeadline32.White
+style TextHeadline32.White.Bold
 style TextMedium
 style TextMedium.Bold
 style TextMedium.Purple
